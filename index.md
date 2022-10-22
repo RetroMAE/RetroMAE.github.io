@@ -12,7 +12,6 @@ To be added.
 [RetroMAE codebase](https://github.com/staoxiao/RetroMAE)
 
 ## Publications
-To be added.
 - RetroMAE: Pre-Training Retrieval-oriented Language Models Via Masked Auto-Encoder, EMNLP 2022, [[Link](https://arxiv.org/abs/2205.12035)]
 
 
