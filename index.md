@@ -13,18 +13,8 @@ To be added.
 
 ## Publications
 To be added.
+- RetroMAE: Pre-Training Retrieval-oriented Language Models Via Masked Auto-Encoder, EMNLP 2022, [[Link](https://arxiv.org/abs/2205.12035)]
 
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 To be updated
