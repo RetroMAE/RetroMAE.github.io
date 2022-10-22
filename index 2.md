@@ -15,7 +15,7 @@ To be added.
 To be added.
 
 
-<dl>
+<!-- <dl>
 <dt>Name</dt>
 <dd>Godzilla</dd>
 <dt>Born</dt>
@@ -24,7 +24,7 @@ To be added.
 <dd>Japan</dd>
 <dt>Color</dt>
 <dd>Green</dd>
-</dl>
+</dl> -->
 
 ```
 To be updated
